@@ -21,7 +21,7 @@ integrating with the databases, the chatbot can fetch real-time data and answer 
 1. Clone the repository:
 
 ```
-git clone https://github.com/shamspias/db-gpt-chatbot
+git clone https://github.com/yossilevi94/db-gpt-chatbot
 ```
 
 2. Navigate to the project directory:
